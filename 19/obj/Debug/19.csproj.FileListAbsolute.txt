@@ -1,0 +1,5 @@
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\19\bin\Debug\19.exe.config
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\19\bin\Debug\19.exe
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\19\bin\Debug\19.pdb
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\19\obj\Debug\19.exe
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\19\obj\Debug\19.pdb
