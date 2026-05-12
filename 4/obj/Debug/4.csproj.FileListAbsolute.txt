@@ -1,0 +1,5 @@
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\4\bin\Debug\4.exe.config
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\4\bin\Debug\4.exe
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\4\bin\Debug\4.pdb
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\4\obj\Debug\4.exe
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\4\obj\Debug\4.pdb

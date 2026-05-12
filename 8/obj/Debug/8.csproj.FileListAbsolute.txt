@@ -1,0 +1,6 @@
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\8\bin\Debug\8.exe.config
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\8\bin\Debug\8.exe
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\8\bin\Debug\8.pdb
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\8\obj\Debug\8.csprojResolveAssemblyReference.cache
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\8\obj\Debug\8.exe
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\8\obj\Debug\8.pdb
