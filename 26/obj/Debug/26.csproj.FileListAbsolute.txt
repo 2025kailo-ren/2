@@ -1,0 +1,8 @@
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\26\bin\Debug\26.exe.config
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\26\bin\Debug\26.exe
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\26\bin\Debug\26.pdb
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\26\obj\Debug\26.exe
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\26\obj\Debug\26.pdb
+H:\практические (программирование)\практическая 2\26\bin\Debug\26.exe.config
+H:\практические (программирование)\практическая 2\26\obj\Debug\26.exe
+H:\практические (программирование)\практическая 2\26\obj\Debug\26.pdb

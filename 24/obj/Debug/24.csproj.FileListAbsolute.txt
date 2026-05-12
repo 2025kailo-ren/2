@@ -1,0 +1,5 @@
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\24\bin\Debug\24.exe.config
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\24\bin\Debug\24.exe
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\24\bin\Debug\24.pdb
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\24\obj\Debug\24.exe
+C:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\24\obj\Debug\24.pdb

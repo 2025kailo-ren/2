@@ -1,0 +1,6 @@
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\23\bin\Debug\23.exe.config
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\23\bin\Debug\23.exe
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\23\bin\Debug\23.pdb
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\23\obj\Debug\23.exe
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\23\obj\Debug\23.pdb
+c:\Users\home\Documents\Visual Studio 2015\Projects\практическая 2\23\obj\Debug\23.csprojResolveAssemblyReference.cache
